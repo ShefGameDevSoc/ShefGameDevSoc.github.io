@@ -12,7 +12,7 @@ member:
     name: William
     website: www.willjay.rocks
   Treasuer:
-    name: Ben Cannon
+    name: Ben
     github: google
   Inclusions and Publicity:
     name: Tom
