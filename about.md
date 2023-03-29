@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: about
+permalink: /about/
 image: 
   path: https://source.unsplash.com/random/1024x600
   thumbnail: https://source.unsplash.com/random/400x300

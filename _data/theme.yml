@@ -31,5 +31,6 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - committee.md
   - posts.md
   - categories.md

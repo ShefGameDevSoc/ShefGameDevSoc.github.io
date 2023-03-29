@@ -1,0 +1,11 @@
+<h1>{{member[0]}}</h1>
+<p>{{ member[1].name }}</p>
+{% if member[1].website %}
+<a href="https://{{ member[1].website}}">Website</a>
+{%endif%}
+{% if member[1].github %}
+<a href="https://github.com/{{ member[1].github}}">Github</a>
+{%endif%}
+{% if member[1].linkedin %}
+<a href="https://linkedin.com/in/{{ member[1].linkedin}}">Linkedin</a>
+{%endif%}
