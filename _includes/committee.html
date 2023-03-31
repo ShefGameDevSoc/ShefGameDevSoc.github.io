@@ -1,11 +1,18 @@
-<h1>{{member[0]}}</h1>
-<p>{{ member[1].name }}</p>
-{% if member[1].website %}
-<a href="https://{{ member[1].website}}">Website</a>
-{%endif%}
-{% if member[1].github %}
-<a href="https://github.com/{{ member[1].github}}">Github</a>
-{%endif%}
-{% if member[1].linkedin %}
-<a href="https://linkedin.com/in/{{ member[1].linkedin}}">Linkedin</a>
-{%endif%}
+<div class="person">
+    <h1>{{member[0]}}</h1>
+    {% if member[1].image %}
+    <div class="profile-image-cont">
+        <img  src="{{member[1].image}}" />
+    </div>
+    {%endif%}
+    <br>
+    <p>{{ member[1].name }}</p>
+
+    {% if member[1].actions %}
+        <ul class="intro-actions">
+          {% for action in member[1].actions %}
+            <li><a href="{{ action.url }}" class="btn">{% if action.icon %}<span class="icon">{% include {{ action.icon | prepend: 'icon-' | append: '.svg' }} %}</span>{% endif %}{{ action.label }}</a></li>
+          {% endfor %}
+        </ul>
+    {% endif %}
+</div>

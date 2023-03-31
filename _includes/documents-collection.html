@@ -15,5 +15,6 @@
 {% endif %}
 
 {%- for post in entries -%}
+<date style="display:none">{{post.date | date: "%Y-%m-%d" }}</date>
   {% include entry.html %}
 {%- endfor -%}

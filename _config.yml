@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+future: true
 lang: en-US
 title: ShefDevSoc
 email: shefdev@sheffield.ac.uk
@@ -23,8 +24,12 @@ author:
   name: ShefGameSoc
   twitter: ShefGameSoc
   picture: /assets/images/johndoe.png
-twitter_username: ShefGameSoc
-github_username: ShefGameSoc
+twitter_username: 
+github_username: ShefGameDevSoc
+instagram_username: Instagram
+yt_username:
+facebook_username: Fvk
+signup: https://su.sheffield.ac.uk
 logo: /assets/icons/basically-basic-logo-dark.svg
 search: true
 search_full_content: true
@@ -59,9 +64,12 @@ paginate_path: /page:num/
 
 # Collections
 collections:
-  recipes:
+  posts:
     output: true
-    permalink: /:collection/:path/
+    permalink: /posts/:path/
+  events:
+    output: true
+    permalink: /events/:path/
 
 # Front Matter Defaults
 defaults:
@@ -72,3 +80,10 @@ defaults:
     values:
       layout: post
       read_time: true
+      # _posts
+  - scope:
+      path: "_events"
+      type: events
+    values:
+      layout: post
+      read_time: false

@@ -1,0 +1,28 @@
+.person {
+    width: 40%;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    min-width: 300px;
+    
+}
+.container-people {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+}
+.profile-image-cont {
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+}
+.profile-image-cont img {
+    width: 100%;
+    height: auto;
+}

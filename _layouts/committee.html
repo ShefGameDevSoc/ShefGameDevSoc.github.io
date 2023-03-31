@@ -10,9 +10,11 @@ layout: default
       <div class="entry-content">
         {{ content }}
       </div>
-      {% for member in page.member %}
+      <div class="container-people">
+        {% for member in page.member %}
         {% include committee.html %}
-      {% endfor %}
+        {% endfor %}
+      </div>
     </article>
   </div>
 </main>

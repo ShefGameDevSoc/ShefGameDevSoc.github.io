@@ -4,11 +4,7 @@ image:
   path: https://source.unsplash.com/random/1024x600
   thumbnail: https://source.unsplash.com/random/400x300
 categories:
-  - Blog
-tags:
-  - content
-  - image
-  - layout
+  - Games
 last_modified_at: 2017-03-17T10:46:49-04:00
 ---
 
