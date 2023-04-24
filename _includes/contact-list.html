@@ -26,7 +26,9 @@
   {% if site.yt_username %}
     <li>{% include icon-youtube.html username=site.yt_username label='Youtube' %}</li>
   {% endif %}
-
+  {% if site.discord_link %}
+    <li>{% include icon-discord.html link=site.discord_link label='Discord' %}</li>
+  {% endif %}
   {% if site.signup %}
     <li>{% include icon-web.html link=site.signup label='Signup' %}</li>
   {% endif %}

@@ -3,43 +3,36 @@ title: "Committee"
 layout: committee
 permalink: /committee/
 image: 
-  path: https://source.unsplash.com/random/1024x600
-  thumbnail: https://source.unsplash.com/random/400x300
+  path: https://picsum.photos/1024/600
 member: 
   President:
     name: Ayyub
     actions:
-      - label: "Github"
-        icon: github
-        url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-      - label: "Sometrhing else"
-        icon: download
-        url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
-      - label: "Sometrhing else"
-        icon: web
-        url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
-    image: https://source.unsplash.com/random/300×300
+    image: https://picsum.photos/500
   Secretary:
-    name: William
+    name: Will Jeynes
     actions:
       - label: "Github"
         icon: github
-        url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-    image: https://source.unsplash.com/random/300×300
+        url: "https://github.com/WillJeynes"
+      - label: "LinkedIn"
+        icon: linkedin
+        url: "https://linkedin.com/in/william-jeynes"
+      - label: "Blog"
+        icon: web
+        url: "https://willjay.rocks"
+    image: /assets/committee/will.jpg
   Treasuer:
     actions:
-      - label: "Web"
-        icon: web
-        url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-    image: https://source.unsplash.com/random/300×300
+    image: https://picsum.photos/300
     name: Ben
-    
   Inclusions:
     name: Tom
     actions:
-      - label: "Youtube"
-        icon: youtube
-        url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-    image: https://source.unsplash.com/random/300×300
+    image: https://picsum.photos/400
+  Social:
+    name: Kevin
+    actions:
+    image: https://picsum.photos/600
 ---
 Possibly an EGM plug here

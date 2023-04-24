@@ -1,24 +1,16 @@
 ---
-title: "See our previous games"
-image: 
-  path: https://source.unsplash.com/random/1024x600
-  thumbnail: https://source.unsplash.com/random/400x300
+title: "Pleased to show 'Intrusive Thoughts Game'"
 categories:
   - Games
 last_modified_at: 2017-03-17T10:46:49-04:00
 ---
 
-This post should display a large hero image at the top of a page.
+Some of the committee's attempt at a roguelike.
 
-This post tests a horizontal image using the following YAML Front Matter:
-
-```yaml
-image: https://source.unsplash.com/random/1024x600
+Glowing reviews:
+```
+'Fine for 2 days'
+  -- A game development student from hudddersfield
 ```
 
-Hero images can also be assigned like this:
-
-```yaml
-image:
-  path: https://source.unsplash.com/random/1024x600
-```
+[Can be found here](http://willjay.rf.gd/intrusivegame/build/)

@@ -14,23 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 future: true
-lang: en-US
+lang: en-UK
 title: ShefDevSoc
-email: shefdev@sheffield.ac.uk
+email: gamedev.soc@sheffield.ac.uk
 description: "Sheffield Game Development Society"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: ShefGameSoc
-  twitter: ShefGameSoc
-  picture: /assets/images/johndoe.png
+  picture: /assets/icons/Logo.png
 twitter_username: 
 github_username: ShefGameDevSoc
-instagram_username: Instagram
+instagram_username: shefgamedevsoc
 yt_username:
 facebook_username: Fvk
-signup: https://su.sheffield.ac.uk
-logo: /assets/icons/basically-basic-logo-dark.svg
+discord_link: https://discord.gg/h7Sgrvr48X
+signup: https://su.sheffield.ac.uk/activities/view/game-development-society
+logo: /assets/icons/Logo.png
 search: true
 search_full_content: true
 
