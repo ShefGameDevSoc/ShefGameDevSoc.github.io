@@ -24,6 +24,12 @@ member:
     image: /assets/committee/will.jpg
   Treasuer:
     actions:
+      - label: "LinkedIn"
+        icon: linkedin
+        url: "https://www.linkedin.com/in/ben-cannon-4b0310256"
+      - label: "Instagram"
+        icon: instagram
+        url: "https://instagram.com/_cannon_ "https://www.linkedin.com/in/ben-cannon-4b0310256"
     image: https://picsum.photos/300
     name: Ben
   Inclusions:
