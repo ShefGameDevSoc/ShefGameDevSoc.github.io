@@ -40,11 +40,10 @@ member:
     name: Kevin Wu
     actions:
       - label: "LinkedIn"
-        icon: instagram
+        icon: linkedin
         url: "https://www.linkedin.com/in/wei-ming-wu-8a0406232"
       - label: "Instagram"
-        icon: linkedin
-        url: "https://instagram.com/kevin4
-416"
+        icon: instagram
+        url: "https://instagram.com/kevinw.416"
     image: https://picsum.photos/600
 ---
