@@ -31,14 +31,20 @@ member:
         icon: instagram
         url: "https://instagram.com/_cannon_" 
     image: https://picsum.photos/300
-    name: Ben
+    name: Ben Cannon
   Inclusions:
     name: Tom
     actions:
     image: https://picsum.photos/400
   Social:
-    name: Kevin
+    name: Kevin Wu
     actions:
+      - label: "LinkedIn"
+        icon: instagram
+        url: "https://www.linkedin.com/in/wei-ming-wu-8a0406232"
+      - label: "Instagram"
+        icon: linkedin
+        url: "https://instagram.com/kevin4
+416"
     image: https://picsum.photos/600
 ---
-Possibly an EGM plug here
