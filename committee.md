@@ -29,7 +29,7 @@ member:
         url: "https://www.linkedin.com/in/ben-cannon-4b0310256"
       - label: "Instagram"
         icon: instagram
-        url: "https://instagram.com/_cannon_ "https://www.linkedin.com/in/ben-cannon-4b0310256"
+        url: "https://instagram.com/_cannon_" 
     image: https://picsum.photos/300
     name: Ben
   Inclusions:
