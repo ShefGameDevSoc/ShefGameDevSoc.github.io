@@ -3,8 +3,8 @@ title: "About"
 layout: about
 permalink: /about/
 image: 
-  path: https://picsum.photos/1024/600
-  thumbnail: https://picsum.photos/1024/600
+  path: /assets/images/qbert.png
+  thumbnail: /assets/icons/Logo.png
 ---
 
 Sheffield game development society is *more about here*

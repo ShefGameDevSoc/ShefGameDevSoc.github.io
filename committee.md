@@ -3,7 +3,7 @@ title: "Committee"
 layout: committee
 permalink: /committee/
 image: 
-  path: https://picsum.photos/1024/600
+  path: /assets/images/donkey.png
 member: 
   President:
     name: Ayyub
@@ -57,5 +57,5 @@ member:
       - label: "Instagram"
         icon: instagram
         url: "https://instagram.com/kevinw.416"
-    image: https://picsum.photos/600
+    image: /assets/committee/kevin.png
 ---
