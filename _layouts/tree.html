@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+    Basically Basic Jekyll Theme 1.4.5
+    Copyright 2017-2018 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  {% include head.html %}
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %}
+
+    <div class="canvas">
+      <div class="wrapper">
+        {% include masthead.html %}
+        <div class="initial-content">
+            <main id="main" class="page-content" aria-label="Content">
+                <div class="inner">
+                  <article class="entry-wrap">
+                    <div class="entry-content">
+                        <div class="link_list">
+                      {{ content }}
+                      {% if page.actions %}
+
+                        {% for action in page.actions %}
+                            <a href="{{ action.url }}" class="btn">{% if action.icon %}<span class="icon">{% include {{ action.icon | prepend: 'icon-' | append: '.svg' }} %}</span>{% endif %}{{ action.label }}</a>
+                        {% endfor %}
+    
+                      {% endif %}
+                      {% include contact-list.html %}
+                    </div>
+                    </div>
+                  </article>
+                </div>
+              </main>
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+
+  </body>
+
+</html>
