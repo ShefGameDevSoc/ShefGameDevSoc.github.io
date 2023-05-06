@@ -6,21 +6,21 @@
   @include fluid-type($min-vw, $max-vw, 20px, 24px);
   margin: 0;
   padding: 1.8125rem 1rem;
-  padding-right: calc(
-    10vw + (2 * #{$navicon-width})
-  ); /* make room for sidebar toggle */
+  //padding-right: calc(
+  //  10vw + (2 * #{$navicon-width})
+  //); /* make room for sidebar toggle */
   font-family: $base-font-family;
   font-weight: bold;
   line-height: 1;
 
-  @include breakpoint($medium) {
-    padding-left: 2rem;
-  }
+  //@include breakpoint($medium) {
+  //  padding-left: 2rem;
+  //}
 
-  @include breakpoint($large) {
-    padding-left: 5vw;
-  }
-
+  //@include breakpoint($large) {
+  //  padding-left: 5vw;
+  //}
+  padding-left: 8rem;
   a {
     display: -ms-flexbox;
     display: -webkit-box;

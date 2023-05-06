@@ -134,19 +134,19 @@
   -ms-flex-align: center;
   align-items: center;
   top: 0;
-  right: 0;
+  left: 2rem;
   margin: 1.8125rem 0;
   padding-right: 1rem;
-  background-color: $background-color;
+  //background-color: $background-color;
   z-index: 10000;
 
   @include breakpoint($medium) {
-    right: 2rem;
+    // right: 2rem;
     padding-right: 0;
   }
 
   @include breakpoint($large) {
-    right: 5vw;
+    // right: 5vw;
   }
 
   .toggle-inner {
