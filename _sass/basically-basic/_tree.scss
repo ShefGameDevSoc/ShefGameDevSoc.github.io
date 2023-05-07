@@ -35,8 +35,12 @@
 
     }
     font-size: xx-large;
+    width: 50%;
+    min-width: min(600px,100%);
 }
-
+.link_list p {
+    font-size: x-large;
+}
 .link_list a:link {
     text-decoration: none;
 }
@@ -51,4 +55,7 @@
 
 .link_list a:active {
     text-decoration: none;
+}
+.full_left .site-title {
+    padding-left: 3rem !important;
 }
