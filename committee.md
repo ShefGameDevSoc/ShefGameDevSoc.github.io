@@ -6,7 +6,7 @@ image:
   path: /assets/images/donkey.png
 member: 
   President:
-    name: Ayyub
+    name: Ayyub Ameen
     actions:
       - label: "Github"
         icon: github
@@ -47,7 +47,7 @@ member:
       - label: "Instagram"
         icon: instagram
         url: "https://instagram.com/_thomas.wilkins"
-    image: https://picsum.photos/400
+    image: /assets/committee/tom.png
   Social:
     name: Kevin Wu
     actions:
