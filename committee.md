@@ -36,7 +36,7 @@ member:
       - label: "Instagram"
         icon: instagram
         url: "https://instagram.com/_cannon_" 
-    image: https://picsum.photos/300
+    image: /assets/committee/ben.png
     name: Ben Cannon
   Inclusions:
     name: Tom Wilkins
