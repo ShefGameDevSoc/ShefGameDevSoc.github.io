@@ -58,4 +58,11 @@ member:
         icon: instagram
         url: "https://instagram.com/kevinw.416"
     image: /assets/committee/kevin.png
+  Technical:
+    name: Joshva Jerry
+    actions:
+      - label: "Instagram"
+        icon: instagram
+        url: "https://www.instagram.com/josh_j1009/"
+    image: /assets/committee/josh.png
 ---
