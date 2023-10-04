@@ -1,11 +1,12 @@
 ---
-title: "Resource Post"
+title: "Resources"
 image: 
   path: https://picsum.photos/1024/600
   thumbnail: https://picsum.photos/1024/600
 categories:
   - Article
 last_modified_at: 2023-04-24T10:46:49-04:00
+layout: post
 ---
 Every resource we have ever found :)
 
