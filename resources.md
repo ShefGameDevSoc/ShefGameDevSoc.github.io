@@ -32,6 +32,7 @@ Every resource we have ever found :)
 *Pixel Art :*
 * [Brandon James Greer](https://www.youtube.com/@BJGpixel) - Analysis, Theory, Tutorials
 * [MortMort](https://www.youtube.com/@MortMort) - Theory, Tutorials
+* [Nootall](https://www.youtube.com/@nootall) - Theory, Tutorials
 * [Pixel Overload](https://www.youtube.com/@PixelOverloadChannel) - Theory, Tutorials
 * [Broadleaf Digital](https://www.youtube.com/@broadleafdigital) - Devlogs
 * [AdamCYounis](https://www.youtube.com/@AdamCYounis) - Tutorials, Theory
@@ -119,7 +120,9 @@ Every resource we have ever found :)
 * https://lospec.com/
 * https://kenney.nl/
 * https://opengameart.org/
-
+* https://www.slynyrd.com/blog
+* https://thoseawesomeguys.com/prompts/
+* https://shinmera.github.io/promptfont/
 
 ### **Sound :**
 * https://freesound.org/?fend=bw
