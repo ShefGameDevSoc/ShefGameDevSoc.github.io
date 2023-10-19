@@ -51,6 +51,7 @@ Every resource we have ever found :)
 ### **Writing :**
 * [Overly Sarcastic Productions](https://www.youtube.com/@OverlySarcasticProductions) (specifically [Trope Talk](https://www.youtube.com/playlist?list=PLDb22nlVXGgcljcdyDk80bBDXGyeZjZ5e) & [Detail Diatribe](https://www.youtube.com/playlist?list=PLDb22nlVXGgdrVwBlADriZxejYxT1q9EZ)) - Analysis, Theory
 * [TaleFoundry](https://www.youtube.com/@TheTaleFoundry) - Analysis, Theory
+* [Visual Novel Design](https://youtube.com/@vimi) - Theory, Tutorial
 
 ## __Tools__
 ### **Game Engines :**
