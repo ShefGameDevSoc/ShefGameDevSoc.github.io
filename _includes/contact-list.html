@@ -1,8 +1,8 @@
 <ul class="contact-list">
   {% if site.signup %}
-    <li>{% include icon-web.html link=site.signup label='Sign up' %}</li>
+    <li>{% include icon-web.html link=site.signup label='Become a Member' %}</li>
   {% endif %}
-  
+
   {% if site.email %}
     <li>
       <a href="mailto:{{ site.email }}">
@@ -21,19 +21,19 @@
   {% if site.instagram_username %}
     <li>{% include icon-instagram.html username=site.instagram_username label='Instagram' %}</li>
   {% endif %}
-  
+
   {% if site.linkedin_link %}
   <li>{% include icon-linkedin.html username=site.linkedin_link label='Linkedin' %}</li>
   {% endif %}
 
 
-  
-  
+
+
 
   <!-- {% if site.facebook_username %}
   <li>{% include icon-facebook.html username=site.facebook_username label='Facebook' %}</li>
   {% endif %} -->
-  
+
 
   {% if site.twitter_username %}
     <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
@@ -43,6 +43,6 @@
   {% if site.yt_username %}
     <li>{% include icon-youtube.html username=site.yt_username label='Youtube' %}</li>
   {% endif %}
-  
+
 
 </ul>
