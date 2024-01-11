@@ -7,6 +7,7 @@ categories:
   - Article
 last_modified_at: 2023-04-24T10:46:49-04:00
 layout: post
+permalink: /resources/
 ---
 Every resource we have ever found :)
 
