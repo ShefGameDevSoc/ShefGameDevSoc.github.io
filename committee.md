@@ -37,7 +37,7 @@ member:
         icon: instagram
         url: "https://instagram.com/_cannon_" 
     image: /assets/committee/ben.png
-    name: Ben Cannon
+    name: Luca Devlin 
   Inclusions:
     name: Tom Wilkins
     actions:
