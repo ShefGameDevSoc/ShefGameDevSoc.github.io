@@ -16,11 +16,24 @@ member:
         url: "https://www.linkedin.com/in/ayyub-ameen-55620a1b2/"
     image: /assets/committee/ayyub.jpg
   Secretary:
+    name: Kevin Wu
+    actions: 
+      - label: "GitHub"
+        icon: github
+        url: "https://github.com/KevinWMW"
+      - label: "LinkedIn"
+        icon: linkedin
+        url: "https://www.linkedin.com/in/wei-ming-wu/"
+    image: /assets/committee/kevin.jpg
   Treasurer:
     name: Luca Devlin 
+    image: /assets/committee/luca.jpg
+    
   Inclusions Officer:
-  Social:
-    name: Kevin Wu
-    actions:
-  Technical:
+    name: Nawar Abou Trabi
+    image: /assets/committee/nawar.jpg
+
+  Publicity:
+    name: Albie Gray
+    image: /assets/committee/albie.jpg
 ---
