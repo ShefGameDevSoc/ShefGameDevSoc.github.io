@@ -29,7 +29,7 @@ member:
     name: Luca Devlin 
     image: /assets/committee/luca.png
     
-  Inclusions Officer:
+  Inclusions:
     name: Nawar Abou Trabi
     image: /assets/committee/nawar.png
 
