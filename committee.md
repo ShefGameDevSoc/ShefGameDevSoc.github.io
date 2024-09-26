@@ -24,16 +24,16 @@ member:
       - label: "LinkedIn"
         icon: linkedin
         url: "https://www.linkedin.com/in/wei-ming-wu/"
-    image: /assets/committee/kevin.jpg
+    image: /assets/committee/kevin.png
   Treasurer:
     name: Luca Devlin 
-    image: /assets/committee/luca.jpg
+    image: /assets/committee/luca.png
     
   Inclusions Officer:
     name: Nawar Abou Trabi
-    image: /assets/committee/nawar.jpg
+    image: /assets/committee/nawar.png
 
   Publicity:
     name: Albie Gray
-    image: /assets/committee/albie.jpg
+    image: /assets/committee/albie.png
 ---
