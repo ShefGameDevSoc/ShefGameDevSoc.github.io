@@ -59,3 +59,19 @@
 .full_left .site-title {
     padding-left: 5% !important;
 }
+
+  .full_left .site-title span{
+    display: block
+  }
+
+  .full_left .site-title  {
+    padding: 0 ;
+  }
+
+  .full_left .site-title a {
+    flex-direction: row;
+  }
+
+   .full_left #masthead {
+    border-bottom: none;
+  }
