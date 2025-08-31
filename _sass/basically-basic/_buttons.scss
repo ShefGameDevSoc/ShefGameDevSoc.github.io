@@ -14,6 +14,7 @@
   text-decoration: none;
   cursor: pointer;
   margin-bottom: 10px;
+  font-family: $headline-font-family;
   &:hover {
     background-color: tint($accent-color, 20%);
     color: #fff;

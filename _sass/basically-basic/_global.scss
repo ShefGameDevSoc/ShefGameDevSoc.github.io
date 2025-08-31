@@ -9,9 +9,10 @@
   //padding-right: calc(
   //  10vw + (2 * #{$navicon-width})
   //); /* make room for sidebar toggle */
-  font-family: $base-font-family;
+  font-family: $headline-font-family;
   font-weight: bold;
   line-height: 1;
+
 
   //@include breakpoint($medium) {
   //  padding-left: 2rem;
@@ -112,5 +113,11 @@
 
   + .taxonomy-section {
     margin-top: 3em;
+  }
+}
+
+@media screen and (max-width: $large) {
+  .site-title span{
+    display: none
   }
 }

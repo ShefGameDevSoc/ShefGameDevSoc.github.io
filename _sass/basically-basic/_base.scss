@@ -56,6 +56,14 @@ h6 {
   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
 }
 
+.entry-excerpt h2 {
+ font-family: $base-font-family !important;
+}
+
+.contact-list  {
+ font-family: $headline-font-family !important;
+}
+
 h1 {
   @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);
 }

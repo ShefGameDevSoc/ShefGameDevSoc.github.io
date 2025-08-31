@@ -1,17 +1,13 @@
 ---
 title: "Resources"
-image: 
-  path: https://picsum.photos/1024/600
-  thumbnail: https://picsum.photos/1024/600
 categories:
   - Article
-last_modified_at: 2023-04-24T10:46:49-04:00
+last_modified_at: 2025-08-31T12:46:49-04:00
 layout: post
 permalink: /resources/
 ---
 Every resource we have ever found :)
 
-# __Resources__
 ## __YouTubers__
 ### **General :**
 * [GDC (AKA. Game Developer's Conference)](https://www.youtube.com/@Gdconf) - Talks
@@ -112,19 +108,19 @@ Every resource we have ever found :)
 
 ## __Amazing Websites & Lists__
 ### **General :**
-* http://devassets.com/
-* https://tinytools.directory/
-* https://gamedevgaiden.neocities.org/
-* https://docs.google.com/spreadsheets/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/edit?usp=sharing
+* [Dev Assets](http://devassets.com/) - By Brackeys
+* [TinyTools](https://tinytools.directory/) - More Resources
+* [gamedevgaiden](https://gamedevgaiden.neocities.org/) - Even More Resources
+* [Resources by Alexander Kullman](https://docs.google.com/spreadsheets/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/edit?usp=sharing) - Even More Resources
 
 
 ### **Art :**
-* https://lospec.com/
-* https://kenney.nl/
-* https://opengameart.org/
-* https://www.slynyrd.com/blog
-* https://thoseawesomeguys.com/prompts/
-* https://shinmera.github.io/promptfont/
+* [LoSpec](https://lospec.com/) - Pixel Art
+* [Kenney](https://kenney.nl/) - Free game assets
+* [Open Game Art](https://opengameart.org/) - Open game assets
+* [Slynyrd Blog](https://www.slynyrd.com/blog) - Pixel art blog
+* [thoseawesomeguys prompts](https://thoseawesomeguys.com/prompts/) - Keyboard/Controller icon prompts
+* [PrmoptFont](https://shinmera.github.io/promptfont/) - Keyboard/Controller icon prompts as a font
 
 ### **Sound :**
-* https://freesound.org/?fend=bw
+* [Free Sound](https://freesound.org/?fend=bw) - Free video game sounds

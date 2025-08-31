@@ -1,18 +1,22 @@
 .person {
-    width: 40%;
     background-color: black;
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
     min-width: 300px;
-    
+    display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: start;
+	
+    text-align: center;
 }
 .container-people {
     display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
-	align-items: center;
+	align-items: stretch;
 	align-content: center;
 }
 .profile-image-cont {
@@ -21,6 +25,7 @@
     height: 200px;
     border-radius: 50%;
     background-color: white;
+    align-self: center;
 }
 .profile-image-cont img {
     width: 100%;

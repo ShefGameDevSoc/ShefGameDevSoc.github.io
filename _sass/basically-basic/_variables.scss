@@ -5,7 +5,7 @@
 /* Breakpoint widths */
 $small: 320px !default;
 $medium: 768px !default;
-$large: 1024px !default;
+$large: 1200px !default;
 $xlarge: 1280px !default;
 
 /* Fluid type */
@@ -42,9 +42,9 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
-$base-font-family: "Fira Sans", sans-serif !default;
+$base-font-family: "Arial", sans-serif !default;
 /* Other font families */
-$headline-font-family: $base-font-family !default;
+$headline-font-family: "Pixelify Sans" !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
   monospace !default;
 

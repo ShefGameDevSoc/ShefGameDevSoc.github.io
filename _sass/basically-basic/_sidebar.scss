@@ -13,6 +13,7 @@
   visibility: hidden;
   -webkit-transition: visibility 0s 0.3s;
   transition: visibility 0s 0.3s;
+  font-family: $headline-font-family;
 
   @include breakpoint($large) {
     max-width: (1.5 * $sidebar-width);

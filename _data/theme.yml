@@ -22,7 +22,7 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
+  - name: "Pixelify Sans"
     weights: "400,400i,600,600i"
 
 # Link to specific internal pages in the navigation.
