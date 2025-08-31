@@ -140,6 +140,7 @@
   padding-right: 1rem;
   //background-color: $background-color;
   z-index: 10000;
+  font-size: 18px;
 
   @include breakpoint($medium) {
     // right: 2rem;
