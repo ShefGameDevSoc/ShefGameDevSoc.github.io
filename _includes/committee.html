@@ -15,4 +15,7 @@
           {% endfor %}
         </ul>
     {% endif %}
+    {% if member[1].extra %}
+      <div>{{ member[1].extra | markdownify}}</div>
+    {%endif%}
 </div>
