@@ -108,6 +108,7 @@ Every resource we have ever found :)
 
 ## __Amazing Websites & Lists__
 ### **General :**
+* [Kenney](https://www.kenney.nl/assets)
 * [Dev Assets](http://devassets.com/) - By Brackeys
 * [TinyTools](https://tinytools.directory/) - More Resources
 * [gamedevgaiden](https://gamedevgaiden.neocities.org/) - Even More Resources
