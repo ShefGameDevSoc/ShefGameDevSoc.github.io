@@ -108,7 +108,7 @@ Every resource we have ever found :)
 
 ## __Amazing Websites & Lists__
 ### **General :**
-* [Kenney](https://www.kenney.nl/assets)
+* [Kenney](https://www.kenney.nl/assets) - Free game assets
 * [Dev Assets](http://devassets.com/) - By Brackeys
 * [TinyTools](https://tinytools.directory/) - More Resources
 * [gamedevgaiden](https://gamedevgaiden.neocities.org/) - Even More Resources
@@ -117,7 +117,6 @@ Every resource we have ever found :)
 
 ### **Art :**
 * [LoSpec](https://lospec.com/) - Pixel Art
-* [Kenney](https://kenney.nl/) - Free game assets
 * [Open Game Art](https://opengameart.org/) - Open game assets
 * [Slynyrd Blog](https://www.slynyrd.com/blog) - Pixel art blog
 * [thoseawesomeguys prompts](https://thoseawesomeguys.com/prompts/) - Keyboard/Controller icon prompts
