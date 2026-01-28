@@ -3,9 +3,9 @@ title: "Tree"
 layout: tree
 permalink: /tree/
 actions:
-    - label: "EGM Signup"
+    - label: "ShefJam Signup"
       icon: web
-      url: "https://forms.gle/ZPqBFZjShpuFPNuD6"
+      url: "https://forms.gle/3H31RU8PAxDRxF3z7"
     - label: "Visit our Website"
       icon: web
       url: "https://shefgamedevsoc.github.io"
