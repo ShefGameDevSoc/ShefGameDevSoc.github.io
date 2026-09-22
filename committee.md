@@ -6,17 +6,23 @@ image:
   path: /assets/images/donkey.png
 member:
   President:
-    name: Thomas Wilkins
+    name: Sasha Seleznev
     actions:
       - label: "LinkedIn"
         icon: linkedin
-        url: "https://www.linkedin.com/in/twilkins087"
-    image: /assets/committee/tom.png
+        url: "https://www.linkedin.com/in/sasha-seleznev-12221a299/"
+      - label: "Instagram"
+        icon: instagram
+        url: "https://www.instagram.com/supersan3k/"
+      - label: "Website"
+        icon: web
+        url: "https://san3k.com/"
+    image: /assets/committee/sasha.png
     extra: 
-      "**Most anticipated release?**<br/>
-      Ghost of Yotei"
-  Secretary:
-    name: Will Jeynes
+      "**Favourite game?**<br/>
+      Marvel Rivals"
+  Inclusions:
+    name: Zheng Haowei 
     actions:
       - label: "LinkedIn"
         icon: linkedin
@@ -24,23 +30,14 @@ member:
       - label: "Website"
         icon: web
         url: "https://jeynes.uk/"
-    image: /assets/committee/will.webp
+    image: /assets/committee/zheng.webp
     extra: 
-      "**Most anticipated release?**<br/>
-      Portal 3 (I believe)"
+      "**Favourite game?**<br/>
+      Bloodborne"
   Treasurer:
-    name: Matthew Salmon
-    image: /assets/committee/matt.webp
+    name: Ashaaz Ansari
+    image: /assets/committee/ashaaz.webp
     extra: 
-      "**Most anticipated release?**<br/>
-      Karlson"
-  Social:
-    name: Kosi Okoye
-    image: /assets/committee/kosi.png
-    extra: 
-      "**Most anticipated release?**<br/>
-      Silksong"
-  Publicity:
-    name: Aref Awan
-    image: /assets/committee/aref.png
+      "**Favourite game?**<br/>
+      Clair Obscur: Expedition 33"
 ---
