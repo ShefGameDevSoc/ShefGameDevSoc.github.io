@@ -1,6 +1,6 @@
 ---
 title: "Activities Fair"
-excerpt: "Activities faire"
+excerpt: "Activities fair"
 categories:
   - Events
 last_modified_at: 2023-10-07T12:26:59-05:00
