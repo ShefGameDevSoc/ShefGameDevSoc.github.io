@@ -22,21 +22,14 @@ member:
       "**Favourite game?**<br/>
       Marvel Rivals"
   Inclusions:
-    name: Zheng Haowei 
-    actions:
-      - label: "LinkedIn"
-        icon: linkedin
-        url: "https://www.linkedin.com/in/william-jeynes"
-      - label: "Website"
-        icon: web
-        url: "https://jeynes.uk/"
-    image: /assets/committee/zheng.webp
+    name: Zheng Haowei
+    image: /assets/committee/zheng.png
     extra: 
       "**Favourite game?**<br/>
       Bloodborne"
   Treasurer:
     name: Ashaaz Ansari
-    image: /assets/committee/ashaaz.webp
+    image: /assets/committee/ashaaz.png
     extra: 
       "**Favourite game?**<br/>
       Clair Obscur: Expedition 33"
