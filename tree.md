@@ -3,9 +3,9 @@ title: "Tree"
 layout: tree
 permalink: /tree/
 actions:
-    - label: "Sign up for our EGM!"
+    - label: "EGM voting form!"
       icon: web
-      url: "https://forms.gle/xjZFMjCRQppB6bVAA"
+      url: "https://forms.gle/oNw2GcvhPs522DXN6"
     - label: "Visit our Website"
       icon: web
       url: "https://shefgamedevsoc.github.io"
