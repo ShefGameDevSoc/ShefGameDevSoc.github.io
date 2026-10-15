@@ -5,7 +5,7 @@ permalink: /tree/
 actions:
     - label: "EGM voting form!"
       icon: web
-      url: "https://forms.gle/oNw2GcvhPs522DXN6"
+      url: "https://forms.gle/JKYSj2BXNhXv4ZQH9"
     - label: "Visit our Website"
       icon: web
       url: "https://shefgamedevsoc.github.io"
